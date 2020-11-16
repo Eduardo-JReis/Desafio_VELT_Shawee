@@ -10,4 +10,4 @@ Após a busca dos vídeos por assunto, o script seleciona os videos com mais de 
 
 ### A fazer:
 
-O script criará os graficos para melhor vizualização dos dados, e irá usar features de Machine Learning.
+O script criará os graficos para melhor vizualização dos dados, e irá usar features de Machine Learning para encontrar insights.
